@@ -1,0 +1,11 @@
+*.bai
+*.bam
+*.fasta
+*.fasta.*
+*.fastq.gz
+*.fq.gz
+00_archive/*
+02_raw/*
+03_genome/*
+04_after_pilon/*
+05_quast_results/*
